@@ -3,3 +3,4 @@
 
 # API JAR
 Download the following JAR put them on your test classpath:
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
