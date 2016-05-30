@@ -4,4 +4,4 @@
 # API JAR
 Download the following JAR put them on your test classpath:
 
-[partitionAPI.jar](http://download1327.mediafire.com/r1rmr3muy0gg/y4rakriqa2ahorj/partitionApi.jar)
+[PartitionAPI.jar](http://download1327.mediafire.com/r1rmr3muy0gg/y4rakriqa2ahorj/partitionApi.jar)
