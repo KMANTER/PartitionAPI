@@ -23,9 +23,9 @@ Method Name: Split(List,int)
 
 	 * @return List<List> /the list partitioned
 	 
-	 * @param inList the in list
+	 * @param inList [java.util.List] the in list
 	 
-	 * @param length the length used to split
+	 * @param length [java.util.Integer] the length used to split
 	 
-	 * @throws SplitZeroSizeException the split zero size exception
+	 * @throws SplitZeroSizeException [extends Exception] the split zero size exception
 	 
