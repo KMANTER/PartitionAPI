@@ -6,13 +6,13 @@
 # API JAR
 Download the following JAR put it on your test classpath:
 
-[PartitionAPI.jar](http://download1327.mediafire.com/r1rmr3muy0gg/y4rakriqa2ahorj/partitionApi.jar)
+* [`PartitionAPI.jar`](http://download1327.mediafire.com/r1rmr3muy0gg/y4rakriqa2ahorj/partitionApi.jar)
 
 Then, and for this moment you will be able to use only one function helps to split your List to many sub lists, Using the function split implemented into the class:
 
 # Class Name : ListPartitioner
 
-$Class Summary$
+* Class Summary
 
 Package : org.works.skm.api
 
