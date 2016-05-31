@@ -8,7 +8,10 @@ Download the following JAR put it on your test classpath:
 
 * [`PartitionAPI.jar`](http://download1327.mediafire.com/r1rmr3muy0gg/y4rakriqa2ahorj/partitionApi.jar)
 
+Import this library api to your project.
+
 Then, and for this moment you will be able to use only one function helps to split your List to many sub lists, Using the function split implemented into the class:
+
 
 # Class Name : ListPartitioner
 
@@ -29,3 +32,12 @@ Method Name: Split(List,int)
 	 
 	 * @throws SplitZeroSizeException [extends Exception] the split zero size exception
 	 
+
+# SOURCE CODE [API + JUnit TESTS]
+
+* Download or clone repositorie project.
+
+* Import the project to your eclipse workspace.
+
+* Launche JUnit Tests.
+
