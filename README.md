@@ -6,7 +6,7 @@
 # API JAR
 Download the following JAR put it on your classpath project:
 
-* [`PartitionAPI.jar`](http://download1327.mediafire.com/r1rmr3muy0gg/y4rakriqa2ahorj/partitionApi.jar)
+* [`PartitionAPI.jar`](http://download1327.mediafire.com/q29fc7g03q8g/y4rakriqa2ahorj/partitionApi.jar)
 
 Import this library api to your project.
 
